@@ -6,5 +6,7 @@ int main(){
     printf(
         "%d",3*x
     );
+    printf("%d",x*4);
     return 0;
 }
+
