@@ -9,7 +9,7 @@ int main(){
     printf("%d",x*4);
     printf("%d",x*5);
     printf("%d",x*6);
-    printf("%d",*7);
+    printf("%d",x*7);
     return 0;
 }
 
